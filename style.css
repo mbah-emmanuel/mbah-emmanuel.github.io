@@ -1,0 +1,59 @@
+body{
+    background: rgb(195, 226, 238);
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form{
+    background: red;
+    width: 285px;
+    height: 415px;
+    text-align: center;
+    border-radius: 7px;
+}
+
+input{
+    width: 60px;
+    height: 40px;
+    padding: 10px 20px;
+    font-size: bold;
+    border-radius: 4px;
+    background-color: grey;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+    
+}
+
+.set{
+    margin-top: 4px;
+}
+
+.all_Buttons{
+    margin-top: 32px;
+}
+
+.operations{
+    background: yellow;
+}
+
+.display_input{
+    height: 80px;
+    margin-top: 30px;
+    width: 74%;
+    border: solid ;
+    font-size: 30px;
+    text-align: right;
+    background: white;
+}
+
+
+
+
+
